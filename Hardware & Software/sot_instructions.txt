@@ -1,0 +1,95 @@
+Personal goal:
+- super simple mesh network node setup using arduino nano + nRF24L01 radio
+    - abstraction to support other radios / setups
+- pip installed python lib for the gateway for raspi or other
+- overair firmware upgrades for nodes?
+- some set of builtins like battery reporting
+- packaged in a beautiful how-to on github with great docs "Slate" + Middleman
+- docker for raspi as gateway
+- simplicity of gitpush from local env
+- some sort of central zookeeper type config for managing node registry
+- some sort of web interface on the gateway to track all nodes
+- on the gateway, simple as ./manage.py server (or whatever)
+- some sort of project creator like `django create myproject && pip install -r requirements.txt`
+- great docs!!
+- git hooks for push deploy
+- voice activation pls??!!
+
+Reach:
+    - docker for arduino
+
+Driver for the
+https://drive.google.com/open?id=0B9b1NbuMK524akJFZHl2TVBrYXc&authuser=0
+Also, need to sudo nvram boot-args="kext-dev-mode=1" per http://forum.arduino.cc/index.php?topic=261375.0
+
+http://mikeschinkel.com/blog/25-best-practices-for-meetup-organizers/
+
+http://sysexit.wordpress.com/2013/02/07/burning-a-bootloader-to-an-arduino-nano-using-another-arduino/
+https://wit.ai/pricing
+https://github.com/billroy/bitlash/blob/master/examples/bitlash_rf/doc/bitlash_rf.txt
+http://bitlash.net/
+https://github.com/accelera/whistler
+http://en.wikipedia.org/wiki/6LoWPAN
+https://pinocc.io/
+https://resin.io/
+https://github.com/maniacbug
+http://panstamp.org/store/index.php?
+http://maniacbug.github.io/RF24Network/
+http://maniacbug.wordpress.com/2012/03/30/rf24network/
+
+for esp8266 wifi module: needs a fast serial port
+http://www.seeedstudio.com/wiki/WiFi_Serial_Transceiver_Module
+http://hackaday.com/2014/10/25/an-sdk-for-the-esp8266-wifi-chip/
+http://zeptobars.ru/en/read/Espressif-ESP8266-wifi-serial-rs232-ESP8089-IoT?utm_content=buffer1b861&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+http://theappslab.com/2014/10/09/esp8266-cheap-wifi-for-your-iot/
+https://thingspeak.com/
+
+For next time:
+- buy more jumper cables male / famale
+- buy a folder of resistors
+- better set of boxes for holding stuff
+- screw drivers etc
+- bring the USB wifi adapters (3x)
+-
+
+SoT --
+static electricity
+tables one should be for lovely / community stuff. Other should be for personal stuff. Please keep track of your personal stuff
+mes
+
+bring USB to ethernet plugs for macs!
+HDMI monitor lying around?
+maybe buy 3x USB / WiFi plugs
+AA batteries ??
+wire cutters
+bring the light sensors!
+
+for arduino working
+ - select the USD port correctly
+ - select the correct kind of board!
+
+Download the Arduino IDE here:
+http://arduino.cc/en/Main/Software
+
+You might need to update USB drivers For the atm nanos ERROR: avrdude: stk500_recv(): programmer is not responding.
+http://stackoverflow.com/questions/19765037/arduino-sketch-upload-issue-avrdude-stk500-recv-programmer-is-not-respondi
+http://www.ftdichip.com/Support/Documents/InstallGuides.htm
+File is FTDIUSBSerialDriver_v2_2_18.dmg
+
+restart of computer is probably required, not sure though
+
+IR proximity sensors
+http://www.vishay.com/docs/83760/tcrt5000.pdf
+http://blog.huntgang.com/2014/06/17/arduino-tcrt5000-build-ir-sensor/
+
+PIR sensor
+http://www.instructables.com/id/Arduino-Basics-PIR-Sensor/step3/Code/
+
+Raspberry Pi pin I/O
+https://learn.adafruit.com/adafruits-raspberry-pi-lesson-12-sensing-movement/software
+
+DHT11
+https://learn.adafruit.com/dht/using-a-dhtxx-sensor
+
+???
+http://hack.lenotta.com/arduino-raspberry-pi-switching-light-with-nrf24l01/

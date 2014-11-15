@@ -1,0 +1,86 @@
+Bring a router + ethernet cables from somewhere!
+
+3 raspberry Pis @ $40 each
+
+1 solenoid at $8 http://www.amazon.com/50gf-Frame-Actuator-Electric-Solenoid/dp/B0094FP3TK/ref=sr_1_1?ie=UTF8&qid=1413784095&sr=8-1&keywords=solenoid
+
+10 battery packs for 2xAA @ $5 for 5 http://www.amazon.com/gp/product/B00E0IXRUS/ref=ox_sc_act_title_1?ie=UTF8&psc=1&smid=A3A3DZ03XONGGK
+
+5 PIR sensor @ $10 for 5
+
+10 breadboards @ $7 for 5 http://www.amazon.com/gp/product/B00ARUF2JM/ref=ox_sc_act_title_2?ie=UTF8&psc=1&smid=A31P8DECE97940
+
+1 neopixel strip - 60 LEDs - $25 http://www.adafruit.com/products/1461
+
+√ 100 rectifier diodes -- $4
+√ 10 high voltage transistors TIP102s -- $8
+√ 10 temp + humidity sensors @ $7 for 5 -- $14
+√ 20 photoresisters @ $3 for 20 -- $3
+√ 5 Arduino Nano boards @ $32 for 5 -- $32
+√ 2 moisture sensors @ $3.5 - http://www.ebay.com/itm/Soil-Moisture-Sensor-Module-Hygrometer-Humidity-Detector-for-Arduino-Watering-/161117335220?pt=LH_DefaultDomain_0&hash=item2583576eb4 -- $7
+√ 10 NRF24L01 @ $14 for 10 http://www.ebay.com/itm/10-pcs-NRF24L01-2-4GHz-RF-Antenna-Wireless-Transceiver-Module-for-Arduino-/161193948590?pt=LH_DefaultDomain_0&hash=item2587e875ae -- $14
+
+http://www.hackster.io/challenges/imp-halloween/rules
+Electric Imp will select the Grand Prize based on the project that we feel best showcases the capabilities of our platform, and is most in spirit with Halloween.
+Show us your Electric Imp-powered costumes, haunted house props, pumpkins, and other Halloween-related projects and you will have a chance to win Electric Imp dev kits, swag and more!
+Electric Imp will randomly select 3 other winners to receive an Electric Imp Dev Kit.
+
+Some sort of jambox or something like that
+
+What we have already
+-----------------------
+Raspberry Pi - Diego
+Raspi - Charles
+Makey Makey - Diego
+Wireless outlets - Diego
+Soldering iron - Diego / Charles
+Digital multimeter - Diego / Charles
+Breadboard - Diego
+Breadboard x 3- Charles
+2N2222 - Diego
+Imp - Diego
+April Board - Diego
+Wireless tranciever - Charles
+April Board x 2 - Charles
+Imp x 2 - Charles
+5 PIR sensors - Charles
+10 short range distance sensors - Charles
+Random LEDs - Charles
+Enough jumper cables - Charles
+Sonar range finder, arduino - Charles
+Various resistors - Charles & Diego
+USB 220 - 5V adapters
+
+General Requirements:
+A nice plastic box to hold all our crap
+A nice box to hold crap we buy for Lovely
+arduino yun
+USB webcams ?? http://www.frys.com/product/6820726?site=sr:SEARCH:MAIN_RSLT_PG
+
+Projects and Requirements
+--------------------
+### Teensy
+http://blog.grunick.com/motion-sensitive-paper-lantern/
+LED Strips (from Adafruit)
+PIR sensor
+~~Teensy~~
+Battery power ~http://www.amazon.com/Energizer-XP1000-Universal-Rechargeable-Power/dp/B002K8OQWS
+
+### Arduino + Raspberry Pi -- home sensors system
+http://www.hackster.io/erictsai/uber-home-automation
+humidity and temp sensors
+light sensor
+
+### Raspberry Pi
+http://www.instructables.com/id/ETWXM5ZHAM7US1P/?lang=en
+sound output device via 3.5 audio jack
+
+### Charles' Project
+Lights and music turn on based on motion, 15m delay to turn off, multiple motion sensors
+
+### Electric Imp
+Cat Door? http://www.hackster.io/projects/e/whiskeytangohotel/545-electric-imp-tweeting-cat-door
+http://www.hackster.io/challenges/imp-halloween
+solinoids of some sort
+
+DigiSpark http://digistump.com/products/1 $8.99 tiny arduino
